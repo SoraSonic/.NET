@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\bin\Debug\github.exe.config
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\bin\Debug\github.exe
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\bin\Debug\github.pdb
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\obj\Debug\github.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\obj\Debug\github.exe
+E:\LuuDuLieuSinhVien\.ahihi\.NET\github\github\obj\Debug\github.pdb
